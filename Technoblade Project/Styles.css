@@ -1,0 +1,97 @@
+body{
+ font-family: 'Roboto', Arial, sans-serif;
+ background-color: white; 
+}
+
+#main{
+    background-color: white; 
+  border-radius: 10px;
+}
+#title{
+  background-color: #F0F0F0;
+  text-align: center;
+  font-size: 40px;
+  padding-top: 10px;
+  font-family: 'Roboto';
+}
+#description{
+   background-color: white;
+  text-align: center;
+  font-family: 'Roboto';
+}
+
+#img-div{
+  background-color: white;
+  padding: 10px;
+}
+#img{
+margin-left: auto;
+margin-right: auto;
+display: block;
+max-width: 100%
+}
+
+#image{
+  justify-content: center;
+  flex-direction: column;
+  margin-left: auto;
+margin-right: auto;
+display: block;
+max-width: 100%
+}
+
+#img-caption{
+  background-color: white;
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Roboto';
+  margin-top: 5px;
+}
+
+#tribute-info{
+  background-color: #F0F0F0;
+text-align: center;
+margin-left: 20px;
+max-width: 100%;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+font-size: 25px
+}
+
+#list{
+  font-family: 'Roboto';
+}
+#subtitle{
+  text-align: center;
+   max-width: 550px;
+}
+ul{
+  max-width: 550px;
+  margin: 10px
+}
+li{
+  margin: 15px;
+  text-align: justify;
+}
+
+#quote{
+  font-size: 15px;
+  text-align: center;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+margin: 15px
+}
+#sarcoma{
+  font-family: 'Roboto';
+  font-size: 16px;
+  display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+}
+
+
